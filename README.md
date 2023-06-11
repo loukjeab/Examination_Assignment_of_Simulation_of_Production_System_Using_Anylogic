@@ -10,7 +10,7 @@ Topic: Examination Assignment of Simulation of Production System Using Anylogic
 
 Directory Structure:
 
-- The project is divined into Base_model folder, Improved_model folder, and Scientific poster folder
+- This repository is divined into 3 folders, including Base_model folder, Improved_model folder, and Scientific poster folder.
 
 
 For Base_model folder: 
