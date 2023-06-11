@@ -28,11 +28,10 @@ For Improved_model folder:
 
     1. database folder
     2. Model folder
-    3. Fachhochschule_Emden_Leer_logo.png
-    4. Fischer_Lernfabrik.png
-    5. HS_EmdenLeer_Logo.png
-    6. Improved_model.alp
-    4. OrderSchedule.xlsx
+    3. Fischer_Lernfabrik.png
+    4. HS_EmdenLeer_Logo.png
+    5. Improved_model.alp
+    6. OrderSchedule.xlsx
 
 For Scientific poster folder:
 
